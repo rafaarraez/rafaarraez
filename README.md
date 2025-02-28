@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-  <b>🚀 Ingeniero de Software | Team Lead | Especialista en Backend 🚀</b>
+  <b>🚀 Software Engineer | Backend developer 🚀</b>
 </p>
 
 ---
 
 ### 📌 Sobre mí  
-💡 **Ingeniero de Software** con más de 5 años de experiencia desarrollando plataformas escalables y robustas.  
+💡 **Ingeniero de Software** con más de 6 años de experiencia desarrollando plataformas escalables y robustas.  
 ⚡ Me especializo en **Django, Node.js, Laravel, PostgreSQL, AWS y arquitectura de microservicios**.  
-💼 Actualmente trabajo como **Software Engineer**.  
+💼 Actualmente trabajo como freelance **Software Engineer**.  
 🎯 Busco oportunidades para seguir innovando **y optimización de procesos empresariales**.  
 
 ---
@@ -50,7 +50,7 @@
 
 ### 📬 ¡Conéctate conmigo!  
 <p align="center">
-  <a href="https://linkedin.com/in/rafaelarraez">
+  <a href="https://www.linkedin.com/in/rafael-arraez/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <!--
