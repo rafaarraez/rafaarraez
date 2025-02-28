@@ -20,7 +20,7 @@
 ### 🛠️ Tecnologías y Herramientas  
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=3C873A">
-   <img src="https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js&logoColor=FF7A59">
+  <img src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B">
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791">
