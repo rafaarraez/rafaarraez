@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B">
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791">
-  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900">
+  <img src="https://img.shields.io/badge/-AWS-05122A?logo=amazon-web-services&logoColor=white">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED">
