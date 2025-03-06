@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000000&height=200&section=header&text=¡Hola,%20soy%20Rafael!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000000&height=200&section=header&text=¡Hey👋,%20I'm%20Rafael!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -52,7 +52,10 @@
 ### 📬 ¡Conéctate conmigo!  
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-arraez/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+  </a>
+  <a href="mailto:rafa.arraez.gue@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
   </a>
   <!--
   <a href="https://rafael.dev/">
