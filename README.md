@@ -11,7 +11,7 @@
 
 ### 📌 Sobre mí  
 💡 **Ingeniero de Software** con más de 6 años de experiencia desarrollando plataformas escalables y robustas.  
-⚡ Me especializo en **Django, Node.js, Laravel, PostgreSQL, AWS y arquitectura de microservicios**.  
+⚡ Me especializo en **Node.js, Laravel, PostgreSQL, AWS y arquitectura de microservicios** y estoy iniciando con **Django**.
 💼 Actualmente trabajo como freelance **Software Engineer**.  
 🎯 Busco oportunidades para seguir innovando **y optimización de procesos empresariales**.  
 
