@@ -36,8 +36,8 @@
 
 ### 📈 Estadísticas de GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-dev&show_icons=true&theme=dark&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-dev&theme=dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaarraez&show_icons=true&theme=dark&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaarraez&theme=dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaarraez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
 </p>
 
