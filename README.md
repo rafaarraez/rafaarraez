@@ -51,6 +51,9 @@
 
 ### 📬 ¡Conéctate conmigo!  
 <p align="center">
+  <a href="https://rafael-arraez.vercel.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Mi%20web%20personal-4B0082?logo=globe&logoColor=fff">
+  </a>
   <a href="https://www.linkedin.com/in/rafael-arraez/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
   </a>
